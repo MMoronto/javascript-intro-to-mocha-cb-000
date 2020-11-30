@@ -10,6 +10,10 @@ function sayHeyFriend(name) {
   return `Hey ${name}!`
 }
 
-function theTruth() {
-  return true;
+function favoriteIceCream(name_of_icecream) {
+  return `I love ${name_of_icecream}.`;
+}
+
+function shouting(string) {
+  return 
 }
